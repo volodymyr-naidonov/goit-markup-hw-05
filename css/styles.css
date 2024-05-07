@@ -677,6 +677,9 @@ body {
 .review-form-field-wrapper {
   margin-bottom: 8px;
 }
+.comment-review-form-field-wrapper {
+  margin-bottom: 16px;
+}
 
 .review-form-input {
   border: 1px solid rgba(46, 47, 66, 0.4);
